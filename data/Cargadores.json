@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "estado": "Ocupado",
+        "bus_id": 5
+    },
+
+    {
+        "id": 2,
+        "estado": "Disponible",
+        "bus_id": null
+    }
+]
